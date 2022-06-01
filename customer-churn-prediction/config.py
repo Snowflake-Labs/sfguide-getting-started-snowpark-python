@@ -1,10 +1,10 @@
 snowflake_conn_prop = {
-   "account": "SNOWFLAKE_ACCOUNT",
-   "user": "USERNAME",
+   "account": "ACCOUNT",
+   "user": "USER",
    "password": "PASSWORD",
-   "database": "database",
+   "database": "snowpark_quickstart",
    "schema": "TELCO",
-   "warehouse": "WAREHOUSE",
+   "warehouse": "sp_qs_wh",
 }
 
 # Snowflake Account Identifiers
