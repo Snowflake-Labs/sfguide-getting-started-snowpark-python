@@ -5,8 +5,7 @@ dependencies:
   - python=3.8
   - scikit-learn==1.0.2
   - jupyter==1.0.0
-  - pandas
   - numpy
   - matplotlib
   - seaborn
-  - snowflake-snowpark-python==0.7.0
+  - snowflake-snowpark-python[pandas]==0.7.0
